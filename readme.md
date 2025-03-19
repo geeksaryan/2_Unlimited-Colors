@@ -44,7 +44,7 @@ When the "Start" button is clicked, the background color of the webpage changes 
 
 ## Screenshot
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/Screenshot.png)
 
 ## Author
 
